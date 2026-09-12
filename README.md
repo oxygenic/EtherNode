@@ -15,4 +15,7 @@ The EtherNode Compact IO module can be integrated into every machine network and
 - control via Telnet ASCII commands, MODBUS, MQTT (plain and JSON) or HTTP REST API (plain and JSON)
 - stand-alone operation: conditions and flows can be defined and stored on the device for autonomous operation wiht and without communication via the communication interfaces
 - fully operational with any control device such as a PLC or even a plain PC or a Raspberry Pi
-- board designed to fit into compact housing with DIN rail mounting clamp and a width of only 35 mm available at
+- board designed to fit into compact housing with DIN rail mounting clamp available at https://de.rs-online.com/web/p/din-schienen-gehause/1862290 and at https://de.rs-online.com/web/p/din-schienen-gehause/0336868
+
+
+ 
