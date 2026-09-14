@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e5e2a070-686d-4a1d-a01c-b50b2a62b114")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 31.115 177.165)
+		(size 29.21 13.335)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c3cbd61-efb1-4ea6-b8e9-610068766b88")
+		(property "Sheetname" "Connectors"
+			(at 31.115 176.4534 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 31.115 191.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DNGNinterface"
+				(path "/e5e2a070-686d-4a1d-a01c-b50b2a62b114"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.115 118.11)
+		(size 28.575 13.335)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1ea4e9b7-4afb-459c-bd52-d42c2b42b993")
+		(property "Sheetname" "AnaIO"
+			(at 31.115 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "anaio.kicad_sch"
+			(at 31.115 132.0296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DNGNinterface"
+				(path "/e5e2a070-686d-4a1d-a01c-b50b2a62b114"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.115 137.795)
+		(size 29.21 14.605)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5b9c1282-3061-422e-b5ff-843ea48a7ece")
+		(property "Sheetname" "DigiIO"
+			(at 31.115 137.0834 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "digiio.kicad_sch"
+			(at 31.115 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DNGNinterface"
+				(path "/e5e2a070-686d-4a1d-a01c-b50b2a62b114"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.115 80.645)
+		(size 28.575 12.065)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "95a64497-18f8-4b74-8253-504b1745e9dd")
+		(property "Sheetname" "Power"
+			(at 31.115 79.9334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 31.115 93.2946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DNGNinterface"
+				(path "/e5e2a070-686d-4a1d-a01c-b50b2a62b114"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.115 97.79)
+		(size 28.575 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cbf1a3ef-00cb-4587-832a-0d0ecd975b87")
+		(property "Sheetname" "MCU"
+			(at 31.115 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 31.115 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DNGNinterface"
+				(path "/e5e2a070-686d-4a1d-a01c-b50b2a62b114"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.115 158.115)
+		(size 29.21 14.605)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d668c7ac-ee21-4ffb-b48d-4eac1fff7884")
+		(property "Sheetname" "ETH"
+			(at 31.115 157.4034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "eth.kicad_sch"
+			(at 31.115 173.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DNGNinterface"
+				(path "/e5e2a070-686d-4a1d-a01c-b50b2a62b114"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
